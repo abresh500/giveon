@@ -10,6 +10,7 @@ public class Main {
         System.out.println("2. Replica");
         System.out.println("3. Fool Me Once");
         System.out.println("4. Save Me");
+        System.out.println("5. keeper");
 
         int choice = input.nextInt();
 
@@ -26,6 +27,8 @@ public class Main {
             case 4:
                 album.play4();
                 break;
+             case 5:
+                 album.play5();
             default:
                 System.out.println("Invalid choice");
         }
