@@ -11,6 +11,7 @@ public class Main {
         System.out.println("3. Fool Me Once");
         System.out.println("4. Save Me");
         System.out.println("5. keeper");
+        System.out.println("6. numb");
 
         int choice = input.nextInt();
 
@@ -29,6 +30,11 @@ public class Main {
                 break;
              case 5:
                  album.play5();
+                 break;
+            case 6:
+                album.play6();
+                break;
+
             default:
                 System.out.println("Invalid choice");
         }
