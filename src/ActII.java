@@ -28,5 +28,13 @@ public class ActII {
         System.out.println("numb is playing");
         System.out.println("don't even feel don't ever fight don't know the day and idk the night i been ");
     }
+    void play7(){
+        System.out.println("avaleche playing");
+        System.out.println("baby can i have chance with u cause it feels like avelenche ");
+    }
+    void play8(){
+        System.out.println("Don't leave playing");
+        System.out.println("late at night but never on time but u make it right when i try to let u go away still u won't say at the end of the day i'm still up for the chase");
+    }
 }
 // am just tryna train java don't mind this tho

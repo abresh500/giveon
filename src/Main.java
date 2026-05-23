@@ -12,6 +12,9 @@ public class Main {
         System.out.println("4. Save Me");
         System.out.println("5. keeper");
         System.out.println("6. numb");
+        System.out.print("7 avaleche");
+
+        System.out.println(" 8 don't leave");
 
         int choice = input.nextInt();
 
@@ -33,6 +36,12 @@ public class Main {
                  break;
             case 6:
                 album.play6();
+                break;
+            case 7:
+                album.play7();
+                break;
+            case 8:
+                album.play8();
                 break;
 
             default:
