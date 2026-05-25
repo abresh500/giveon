@@ -25,7 +25,7 @@ public class ActII {
         System.out.println("am telling u baby i can't be who am not but u gon be the one to change me ik am enough but i want just trna the one who kept meeeee....");
     }
     void play6(){
-        System.out.println("numb is playing");
+        System.out.println("numb is playing");//ts reminds of her idk
         System.out.println("don't even feel don't ever fight don't know the day and idk the night i been ");
     }
     void play7(){
