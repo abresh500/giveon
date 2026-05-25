@@ -1,17 +1,17 @@
 public class ActII {
 
     void play(){
-        System.out.println("Jezebel is playing");
+        System.out.println("Jezebel is playing");//this plus good mood or good introo
         System.out.println("tonight u and i we shared ur love time to time another man will have whats mine from time to time its no surprise and i dont mind it pretty jezebel mineeee");
     }
 
     void play2(){
-        System.out.println("Replica is playing");
+        System.out.println("Replica is playing");//this plus like moving on
         System.out.println("guess i should let go tried but u are special all this time passin by me and i can't even get next to you so i got replica");
     }
 
     void play3(){
-        System.out.println("Fool Me Once is playing");
+        System.out.println("Fool Me Once is playing");// leon thomas is fuckin perfection like the melody and the vibe
         System.out.println("i said fool me once shame on me fool me twice maybe i'll allow it baby i like you and there is no other way around it");
     }
 
@@ -29,11 +29,11 @@ public class ActII {
         System.out.println("don't even feel don't ever fight don't know the day and idk the night i been ");
     }
     void play7(){
-        System.out.println("avaleche playing");
+        System.out.println("avaleche playing");// i feel like i gotta fall in love rn
         System.out.println("baby can i have chance with u cause it feels like avelenche ");
     }
     void play8(){
-        System.out.println("Don't leave playing");
+        System.out.println("Don't leave playing");//i feel u giveon
         System.out.println("late at night but never on time but u make it right when i try to let u go away still u won't say at the end of the day i'm still up for the chase");
     }
 }
