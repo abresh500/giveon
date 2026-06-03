@@ -27,7 +27,7 @@ public class Main {
                 break;
             case 3:
                 album.play3();
-                break;
+                break;://
             case 4:
                 album.play4();
                 break;
