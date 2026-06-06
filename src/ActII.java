@@ -4,7 +4,7 @@ public class ActII {
         System.out.println("Jezebel is playing");//this plus good mood or good introo
         System.out.println("tonight u and i we shared ur love time to time another man will have whats mine from time to time its no surprise and i dont mind it pretty jezebel mineeee");
     }
-
+///////////////////////////////////////////////////////////////////////////////////////////////////////
     void play2(){
         System.out.println("Replica is playing");//this plus like moving on
         System.out.println("guess i should let go tried but u are special all this time passin by me and i can't even get next to you so i got replica");
