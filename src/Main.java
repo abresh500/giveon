@@ -32,7 +32,7 @@ public class Main {
                 album.play4();
                 break;
              case 5:
-                 album.play5();
+                 album.play5();//
                  break;
             case 6:
                 album.play6();
