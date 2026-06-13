@@ -21,6 +21,7 @@ public class Main {
         switch (choice) {
             case 1:
                 album.play();
+//
                 break;
             case 2:
                 album.play2();
