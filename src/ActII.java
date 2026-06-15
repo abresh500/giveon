@@ -36,5 +36,8 @@ public class ActII {
         System.out.println("Don't leave playing");//i feel u giveon
         System.out.println("late at night but never on time but u make it right when i try to let u go away still u won't say at the end of the day i'm still up for the chase");
     }
+    void play 9(){
+        System.out.println("good bad ugly playin");
+        System.out.println("i love u");
 }
 // am just tryna train java don't mind this and this nigga is the goat
